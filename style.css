@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+}
+header{
+
+background-image: url(/img/background.png);
+background-size: auto;
+margin: 0;
+padding-bottom: 1px;
+
+}
+.nav-bar{
+    color: aliceblue;
+    background-color: black;
+    border-width: 10px;
+    padding-top: 10px;
+    padding-left:10px;
+    padding-right:10px;
+  
+}
+
+.logo{
+   color: aqua;
+   width: 100px;
+   margin: 0;
+   display: inline-block;
+}
+.main-nav{
+    margin: 0;
+    text-align: right;
+    width:50px;
+    margin-left: 80%;
+    margin-top: 30px;
+    display: inline;
+}
+.main-nav li{
+    list-style:none;
+    display: inline-block; 
+    padding: 10px;
+}
+
+
+.avatar{
+
+    height: 200px;
+    width: 200px;
+}
+
+.ceva{
+        margin: auto;
+        padding-top: 10px;
+        text-align: center;
+}
+
+main{
+    margin:0;
+    background-color: antiquewhite; 
+    padding: 60px;
+}
+
+section{
+    border-bottom: 2px;
+    border-bottom-color: purple;
+    border-bottom-style:groove;
+    background-color: aliceblue;
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+    margin:50px 15% 50px 15%;
+}
+
+footer{
+    margin: auto;
+    text-align: center;
+}
